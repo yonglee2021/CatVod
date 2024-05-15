@@ -18,6 +18,22 @@ export default {
             server: 'https://ali.liucn.repl.co',
         },
     ],
+    xiaoya: {
+        url: 'http://zr.bona.eu.org:5678/'
+    },
+    xiaoya54: {
+        url: 'http://202.141.161.51:5678/'
+    },
+    apple: {
+        url: 'http://us.bona.eu.org'
+    },  
+    tvbox: {
+        url: 'http://202.141.161.54:5344'
+    },      
+    ali: {
+        token: '619907ff282a4fd2abe5764a88aa50cf',
+        token280: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlY2E0MTI3YTAxNDA0MWQ0YjA1Mjc3OWRjYzU3OTRhYSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNTU2MTAyLCJpYXQiOjE3MTU3ODAxMDIsImp0aSI6IjRhYWQyZDk5NTk5OTQzMzViOTBkOTVmMjNjMmI1MGU0In0.UhQit1L511H08KBqeMkwMODqhJFarmJm03ZMJunMxrHFgJ76ci9_jvIXBQFO_qdLF3FmBi6F7oD9KMAP-beBTw',
+        },
     color: [
         {
             light: {
